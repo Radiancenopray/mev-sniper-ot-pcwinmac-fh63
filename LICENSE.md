@@ -1,4 +1,4 @@
-# 
+# Free MEV sniper bot plugins for Mac OS | Turbo MEV sniper bot plugins for PC Windows. Featuring margin management and slippage control — optimized for maximum performance on every platform.
 
 
 
